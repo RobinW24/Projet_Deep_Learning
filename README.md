@@ -1,6 +1,6 @@
 # Projet_Deep_Learning
 
-Voici un plan détaillé du sujet: “Classification de Panneaux de Signalisation Routière”. Ce plan inclut les étapes du projet, des concepts à approfondir, et des objectifs spécifiques.
+Plan détaillé du sujet: “Classification de Panneaux de Signalisation Routière”. Ce plan inclut les étapes du projet, des concepts à approfondir, et des objectifs spécifiques.
 
 # 1. Introduction au Projet
 Objectif : Comprendre le problème de la classification de panneaux de signalisation et l’importance de cette tâche dans les systèmes de conduite autonome.
